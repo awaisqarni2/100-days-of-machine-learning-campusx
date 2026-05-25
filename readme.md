@@ -44,7 +44,7 @@ I am actively following the CampusX course and continuously adding content for e
 
 ## License
 
-This repository is intended for educational purposes. Add a license of your choice (e.g., MIT) if you plan to publish or share broadly.
+This repository is intended for educational purposes.
 
 ## Contact
 
