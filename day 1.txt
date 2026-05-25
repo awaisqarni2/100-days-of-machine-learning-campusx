@@ -1,0 +1,33 @@
+> key point:
+1. you must know about all important ML algorithms.
+2. you must know end-to-end ml project building flow.
+
+> What is Machine Learning? | 100 Days of Machine Learning:
+Machine learning is a field of computer science that
+uses statistical techniques to give computer systems
+the ability to "learn" with data, without being
+explicitly programmed.
+ml model learn from data.
+
+> Where ML used:
+when not possible to write explicit logic for problem.
+
+> History of ML:
+it exits before 50 years but become popular from 2010,
+becuase ml need data and that time we don't have enough data & complex data gathering and labling.
+another problem is not enough hardware to run high ml algorithms.
+
+today we have good hardware(ram & gpus) and good algorithms that why ml success.
+
+> Core “classical” ML algorithms (must know well)
+These are the ones you should understand deeply (math + code):
+1. Linear Regression
+2. Logistic Regression
+3. k‑Nearest Neighbors (k‑NN)
+4. Decision Trees
+5. Random Forests
+6. Gradient Boosting methods (especially XGBoost, LightGBM, CatBoost)
+7. Support Vector Machines (SVM)
+8. Naive Bayes (Gaussian, Multinomial, Bernoulli)
+9. k‑Means Clustering
+10.Principal Component Analysis (PCA)

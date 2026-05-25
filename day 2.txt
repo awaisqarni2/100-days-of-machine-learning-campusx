@@ -1,0 +1,13 @@
+> AI Vs ML Vs DL for Beginners:
+
+> AI: machine ma intellgence dalna. ya idea almost 100 saal sy h.
+> ML: data ma sy pattern learn krna.
+> DL: same like ml but have different algorithms that inspired by human neurons.
+
+ML vs DL:
+ml ma apko features btanay parhty hn. or deep learning ma algorithms khuad sy features bna leta h. so fusy problem jha pr apko exact sai features nhe pta tu wha DL zyada sai kam kry ga q k ya khaud feature find kry ga. apko just raw data/text dena hoga.
+
+DL provides auto feature extraction. when you add more layers of neurons then model perform more well. deep learning ma jsy jsy ap data dety jao gy model or zyada improve hota jay ga.
+
+DL best for advance task like text or image processing related. and have big data.
+ML best for basic tasks. have small data about problem.
